@@ -1,3 +1,5 @@
+//This code is written is using java swing;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
