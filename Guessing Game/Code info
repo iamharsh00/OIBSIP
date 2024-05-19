@@ -1,0 +1,14 @@
+Number Guessing Game
+Welcome to the Number Guessing Game! This is a simple Java console-based game where the computer picks a random number between 1 and 100, and you try to guess it.
+
+How to Play
+Guessing the Number: Enter your guess when prompted. The game will tell you if your guess is too high, too low, or correct.
+Winning the Game: Keep guessing until you correctly guess the number, or until you run out of attempts.
+Play Again: After each game, you'll have the option to play again.
+Features
+Randomly generated number between 1 and 100 for each game.
+Option to play multiple games in succession.
+Informative feedback on each guess (too high, too low, or correct).
+Limited number of attempts per game.
+Contributing
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
